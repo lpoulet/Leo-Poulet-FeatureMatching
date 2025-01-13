@@ -1,0 +1,6 @@
+@Leo.Poulet.FeatureMatching.WebApi_HostAddress = http://localhost:5108
+
+GET {{Leo.Poulet.FeatureMatching.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
